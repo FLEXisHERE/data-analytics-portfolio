@@ -1,6 +1,5 @@
 # Data Analytics Portfolio
 
-Hi, I'm Ilyass 👋  
 This portfolio contains real-world data projects focused on operational efficiency,
 energy optimization, and business insights.
 
