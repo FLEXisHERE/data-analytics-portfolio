@@ -25,7 +25,7 @@ Operational logs containing:
 Average production rate: **31.45 units/hour**
 
 ## Dashboard Overview
-![Dashboard](![Dashboard](Concrete-Mixer-Energy-Optimization/Concrete-Mixer-Energy-Optimization/images/Dashboard_MarchMalaxeur.png))
+![Dashboard](![Dashboard](images/Dashboard_MarchMalaxeur.png))
 
 ## Insights
 - Long operating hours with low production indicate possible energy waste
