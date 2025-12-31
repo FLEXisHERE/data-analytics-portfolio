@@ -24,6 +24,9 @@ Operational logs containing:
 ## Key Result
 Average production rate: **31.45 units/hour**
 
+## Dashboard Overview
+![Dashboard](images/dashboard_overview.png)
+
 ## Insights
 - Long operating hours with low production indicate possible energy waste
 - Production efficiency varies significantly between days
