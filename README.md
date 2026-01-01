@@ -10,3 +10,10 @@ energy optimization, and business insights.
 - Detected abnormal operating durations
 - Built a Power BI dashboard to monitor efficiency  
 📁 [View Project](Concrete-Mixer-Energy-Optimization)
+
+### DressUp — Java OOP Console Application
+- Built a Java console-based clothing shop simulation
+- Implemented object-oriented design using classes, enums, and packages
+- Features user authentication, order creation, and item management
+- Maven-based project structure
+📁 [View Project](DressUp-Java-OOP)
