@@ -1,37 +1,43 @@
-# Concrete Mixer Production & Energy Waste Analysis
+# Concrete Mixer Energy Optimization
 
-## Problem
-On construction sites, the concrete mixer should stop at the end of the working day.
-However, operators sometimes forget to turn it off, causing unnecessary energy consumption.
+## Overview
+This project analyzes operational data from a construction-site concrete mixer (malaxeur).
+Sometimes the mixer is left running at the end of the day, which can lead to unnecessary energy consumption.
 
-## Objective
-- Analyze daily production cycles
+Goal:
+- Monitor production efficiency
 - Detect abnormal operating durations
-- Measure productivity (volume per hour)
-- Identify potential energy waste
+- Highlight potential energy waste using data visualization
 
-## Data
-Operational logs containing:
-- Delivery date
-- Total operating duration
-- Produced volume
+## Dataset
+Operational logs including:
+- Production date
+- Operating duration
+- Produced concrete volume
 - Production per hour
 
-## Tools
+Source: Internal site logs (anonymized for portfolio use).
+
+## Tools Used
 - Power BI
 - Excel / CSV
 
-## Key Result
-Average production rate: **31.45 units/hour**
+## What I Did
+- Cleaned and structured production logs
+- Calculated productivity metrics (production per hour)
+- Analyzed duration vs output per day
+- Built a Power BI dashboard to monitor efficiency and possible waste
 
-## 📊 Dashboard Overview
-![Dashboard](https://raw.githubusercontent.com/FLEXisHERE/data-analytics-portfolio/main/Concrete-Mixer-Energy-Optimization/images/Dashboard_MarchMalaxeur.png)
+## Key Insights / Results
+- Average production rate ≈ 31.45 units/hour
+- Some days show long operating duration with low production
+- These cases indicate possible energy waste (mixer left ON)
 
-## Insights
-- Long operating hours with low production indicate possible energy waste
-- Production efficiency varies significantly between days
+## How to Run
+1. Download the `.pbix` file from the `dashboard/` folder
+2. Open it in Power BI Desktop
+3. Explore filters and daily production trends
 
-## Recommendation
-- Implement alerts when the mixer runs with zero production
-- Monitor duration vs output daily
-
+## Visuals
+### Dashboard Overview
+![Concrete Mixer Dashboard](https://raw.githubusercontent.com/FLEXisHERE/data-analytics-portfolio/main/Concrete-Mixer-Energy-Optimization/images/Dashboard_MarchMalaxeur.png)
