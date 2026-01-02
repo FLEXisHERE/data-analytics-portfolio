@@ -1,4 +1,4 @@
-# DressUp — Java OOP Console App
+# DressUp — Java Console App
 
 ## Overview
 DressUp is a Java console application that simulates a simple clothing shop experience.
